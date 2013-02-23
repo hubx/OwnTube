@@ -3,6 +3,8 @@
 *.pyc
 local_settings.py
 settings.py
+owntube/settings.py
+videoportal/appsettings.py
 media/*
 static_files/*
 media
